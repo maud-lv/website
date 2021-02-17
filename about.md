@@ -1,1 +1,1 @@
-Hey I'm writing the about page, following the webinar hosted by Signar and Manish.
+Hey I'm writing content in the "about" page, following the webinar hosted by Signar and Manish.
