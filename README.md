@@ -1,10 +1,8 @@
 # Website
-## Welcome
-### Heading 3
-This is just my first webpage on GitHub pages.
-![Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+## Hello
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="200"/>
+This is my first webpage on [GitHub Pages](https://pages.github.com)
 
-[GitHub](https://github.com)
 
 ### What I used 
 - GitHub Pages
